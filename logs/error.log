@@ -1,0 +1,21 @@
+2018/03/22 17:10:28 [emerg] 3532#15960: unknown "exa0" variable
+2018/03/22 17:10:36 [emerg] 18332#19824: unknown "exa0" variable
+2018/03/22 17:11:57 [emerg] 14804#16280: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:12:01 [emerg] 14148#9908: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:14:19 [emerg] 11544#7068: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:17:27 [emerg] 12636#12620: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:19:31 [emerg] 17068#13472: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:22:21 [emerg] 11436#8632: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/22 17:27:16 [emerg] 15084#1960: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/22 17:29:10 [emerg] 6192#13720: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/22 17:30:09 [emerg] 7536#2452: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/22 17:30:14 [emerg] 21152#11740: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/26 09:43:58 [emerg] 1480#8724: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 09:46:16 [emerg] 10500#11048: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 09:47:53 [emerg] 11828#19284: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 09:48:37 [emerg] 18772#4416: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 10:10:55 [emerg] 8292#10640: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/26 10:11:43 [emerg] 6208#1888: host not found in upstream "api.douban.com" in F:\chixuan\nginx\nginx-1.13.10/conf/nginx.conf:47
+2018/03/26 10:20:01 [emerg] 3576#10008: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 10:20:31 [emerg] 13944#15940: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2018/03/26 10:22:18 [emerg] 15096#12704: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
